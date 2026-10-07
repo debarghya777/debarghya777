@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debarghya Chakraborty</h1> <h3 align="center"> Full-Stack Developer | MERN Stack | React Enthusiast | India 🇮🇳 </h3> <p align="center"> <a href="https://github.com/debarghya777"> <img src="https://komarev.com/ghpvc/?username=debarghya777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> </p>
+<h1 align="center">Hi 👋, I'm Debarghya</h1> <h3 align="center"> Full-Stack Developer | MERN Stack | React Enthusiast | India 🇮🇳 </h3> <p align="center"> <a href="https://github.com/debarghya777"> <img src="https://komarev.com/ghpvc/?username=debarghya777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> </p>
 👨‍💻 About Me
 
 🔭 Currently working on Veylora
